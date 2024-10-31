@@ -54,7 +54,7 @@ This API provides a simple "Like" feature for articles, allowing users to fetch 
    ```
 
 5. **Access Swagger**:
-   - Open [https://localhost:5001/swagger](https://localhost:5001/swagger) in your browser to view and interact with the API documentation.
+   - Open [https://localhost:7229/swagger](https://localhost:7229/swagger) in your browser to view and interact with the API documentation.
 
 ## API Endpoints
 
